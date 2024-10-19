@@ -6,4 +6,4 @@ Features:
 * Basic email validation using a regular expression in JavaScript.
 * Responsive user interface with an input field for the email and a "Validate Email" button.
 * Displays success or error messages based on the validation result.
-* Simple and clean layout with minimal CSS styling.
+* Simple and clean layout with minimal CSS styling.....
